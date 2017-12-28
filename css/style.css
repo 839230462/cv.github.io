@@ -1,0 +1,40 @@
+/*
+ * 网页浮动CSS
+ */
+#topline
+{
+border-top:5px solid #006600;
+}
+#bottomline
+{
+border-bottom:2px solid #000000;	
+}
+.word
+{
+font-family: "微软雅黑";
+font-size: 20px;
+font-weight: bold;	
+}
+#main
+{
+width: 68%;	
+float: left;
+}
+
+#side
+{
+top:0px;
+float:right;
+width: 30%;	
+border-left:2px solid #000000;
+}
+#footer
+{
+clear: both;
+border-top:2px solid #000000;	
+text-align: center;
+}
+p
+{
+font-family: arial;
+}
